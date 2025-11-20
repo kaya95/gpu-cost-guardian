@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+accelerate
+psutil
+prometheus_client
+requests
+numpy
+pillow
+pyyaml
+tqdm
+huggingface_hub
+docker
