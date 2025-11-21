@@ -1,3 +1,6 @@
+![Screenshot_16-11-2025_143725_colab research google com](https://github.com/user-attachments/assets/1f32eefb-a3cd-4a62-8577-48cb8e071615)
+![Screenshot_16-11-2025_143829_colab research google com](https://github.com/user-attachments/assets/9ae9481c-d81a-4a14-8839-b94af83ff3fb)
+![Screenshot_16-11-2025_14396_colab research google com jpg](https://github.com/user-attachments/assets/8d5013d3-a7cc-4f02-905c-62bf9a1f2267)
 # GPU Cost Guardian
 
 🚀 **GPU Cost Guardian** is a Python project that monitors idle GPUs and estimates cost waste. Includes a dummy training model to simulate GPU usage for testing.
@@ -21,3 +24,4 @@
 3. Install requirements:
 ```bash
 pip install torch torchvision torchaudio
+
